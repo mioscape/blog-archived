@@ -1,6 +1,7 @@
 ### your site title here
 
 title: Mioscape Blog
+baseurl: /blog # name of the repository
 email: mioscape@gmail.com
 
 

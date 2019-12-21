@@ -1,13 +1,13 @@
 ---
-title: About Hagura
+title: About Mioscape
 layout: post
 permalink: /about/
 published: true
 ---
 
-For more themes please visit [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
+Henlo my Name is **Mioscape**, I got this name because I watched an anime called Just Because, and I started to like Mio Natsume soooo much._
+You can call me Mio, my age is 16 years old. I attended the Tunas Pemuda Rajeg High School. I have loved computers since I was 6 years old._
+I often play games called osu, and mania mode. You can see my profile "[here](https://osu.ppy.sh/users/15369896)".
 
-Does the theme deserve a star?
-
-<a class="github-button" href="https://github.com/sharu725/hagura" data-style="mega" data-count-href="/sharu725/hagura/stargazers" data-count-api="/repos/sharu725/hagura#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/hagura on GitHub">Star</a>
+<a class="github-button" href="https://github.com/mioscape/mioproject" data-style="mega" data-count-href="/mioscape/mioproject/stargazers" data-count-api="/repos/mioscape/mioproject#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star mioscape/mioproject on GitHub">Star</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>

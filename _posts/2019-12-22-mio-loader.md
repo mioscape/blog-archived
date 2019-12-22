@@ -13,6 +13,6 @@ _Mioscape Loader have 3 fixed Features and 1 temporary Feature:_
 4. Login Page  
 _*Features will change at any time._  
   
-**Approximity Size: 1.39 KB**  
+**Approximately Size: 1.39 KB**  
 GitHub: [Download](https://github.com/mioscape/mioproject/releases/download/loader-stable/mio-loader.lua)  
 GitHub: [Source](https://github.com/mioscape/mioproject)

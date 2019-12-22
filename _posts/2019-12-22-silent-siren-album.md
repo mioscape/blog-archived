@@ -21,5 +21,5 @@ _**Track List:**_
 11. AIMAI ME MINE
 12. STRAWBERRY MOON  
   
-**Approximity Size: 375 MB**  
+**Approximate Size: 375 MB**  
 Google Drive: [Download](https://drive.google.com/drive/folders/1KcJ_dhFoDBkyQ1eqmE_1QVA3COOyFhJs?usp=sharing)

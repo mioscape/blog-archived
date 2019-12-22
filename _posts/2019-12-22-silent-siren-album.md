@@ -6,6 +6,7 @@ categories: music
 ---
 ![alt text](https://i.ibb.co/RH8179C/Cover.jpg 'Silent-Siren-Cover.jpg')   
 _Silent Siren 3rd Album 発売決定 ! 「ラッキーガール」「BANG!BANG!BANG!」「恋い雪」「KAKUMEI」12曲収録予定。_  
+  
 _**Track List:**_
 1. MUON NO KEIKOKU
 2. KAKUMEI

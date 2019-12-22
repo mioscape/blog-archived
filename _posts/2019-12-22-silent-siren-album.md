@@ -1,7 +1,7 @@
 ---
 layout: post
 title: サイレントサイレン [通常盤] / Silent Siren [Regular Edition] [FLAC]
-date: 2019-12-22
+date: 2019-12-22 15:20
 categories: music
 ---
 ![alt text](https://i.ibb.co/RH8179C/Cover.jpg 'Silent-Siren-Cover.jpg')   

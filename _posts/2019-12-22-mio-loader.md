@@ -6,10 +6,9 @@ categories: games
 ---
 ![alt text](https://i.ibb.co/B3QRjm9/Screenshot-20191222-150711-Trebuchet.png "Mioscape-Loader-Screenshot.png")  
 **Mioscape Loader is a Gameguardian online script, Powered by GitHub and Some Donators. Since 2018.**  
-_Mioscape Loader have 3 fixed Features:_
-1. MLBB Icon Radar
-2. MLBB Normal Radar
-3. MLBB Beta Radar  
+_Mioscape Loader have 2 fixed Features:_
+- MLBB Icon Radar
+- MLBB Normal Radar  
 _*Features will change at any time._  
 
 **Approximate Size: 1.39 KB**  

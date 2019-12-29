@@ -11,5 +11,5 @@ _v2.0stable:_
 - Remove Useless Codes
 
 **Approximate Size: 30 MB**  
-GitHub: [Download](https://github.com/mioscape/drone/archive/v2.0stable.zip)  
+GitHub: [Download](https://github.com/mioscape/drone/archive/stable.zip)  
 GitHub: [Source](https://github.com/mioscape/drone)

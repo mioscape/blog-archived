@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mioscape Loader
+title: Mioscape Loader Direct
 date: 2019-12-22 15:25
 categories: games
 ---
@@ -11,6 +11,6 @@ _Mioscape Loader have 2 fixed Features:_
 - MLBB Normal Radar  
 _*Features will change at any time._  
 
-**Approximate Size: 1.39 KB**  
-GitHub: [Download](https://github.com/mioscape/mioproject/releases/download/loader-stable/mio-loader.lua)  
-GitHub: [Source](https://github.com/mioscape/mioproject)
+**Approximate Size: 174 B**  
+GitHub: [Download](https://github.com/mioscape/project/releases)  
+GitHub: [Source](https://github.com/mioscape/project)

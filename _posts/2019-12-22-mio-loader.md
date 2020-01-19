@@ -12,5 +12,4 @@ _Mioscape Loader have 2 fixed Features:_
 _*Features will change at any time._  
 
 **Approximate Size: 174 B**  
-GitHub: [Download](https://github.com/mioscape/project/releases)  
-GitHub: [Source](https://github.com/mioscape/project)
+GitHub: [Download](https://github.com/mioscape/project/releases) & [Source](https://github.com/mioscape/project)

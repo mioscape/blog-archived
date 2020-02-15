@@ -4,7 +4,7 @@ title: Justin Bieber - Changes Album [MP3] [FLAC]
 date: 2020-02-15 12:46
 categories: music
 ---
-![alt text](https://i.ibb.co/HrQHKcJ/cover.jpg 'Changes-Cover.jpg')
+![alt text](https://i.ibb.co/HrQHKcJ/cover.jpg 'Changes-Cover.jpg')  
 _Justin Bieber - Changes Album_
 
 _**Track List:**_

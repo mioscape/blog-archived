@@ -2,7 +2,7 @@
 
 title: Mioscape Blog
 baseurl: /blog # name of the repository
-email: mioscape@gmail.com
+email: mioscape@neko2.net
 
 
 
@@ -29,7 +29,7 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-  
+
 
 sass:
  style: compressed

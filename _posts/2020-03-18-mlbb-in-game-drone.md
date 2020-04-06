@@ -12,4 +12,4 @@ _v3.0stable:_
 - Added New Map Support
 
 **Approximate Size: 35 MB**  
-GitHub: [Download & Source](https://github.com/mioscape/drone/releases)
+GitHub: [Download](https://github.com/mioscape/drone/releases) & [Source](https://github.com/mioscape/drone)

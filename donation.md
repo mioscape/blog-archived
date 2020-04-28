@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Thanks for keep Supporting Mioscape!
 layout: post
 permalink: /donation/
 ---

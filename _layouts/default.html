@@ -39,33 +39,6 @@ layout: compress
 //]]></script>
 </head>
 <body style="background-color: rgb(255, 255, 255)">
-  <script type="text/javascript">//<![CDATA[
-  (function() {
-      var configuration = {
-      "token": "5f7464f55d572a0652fc512e2fb2b483",
-      "entryScript": {
-          "type": "timeout",
-          "timeout": 3000,
-          "capping": {
-              "limit": 5,
-              "timeout": 24
-          }
-      },
-      "exitScript": {
-          "enabled": true
-      },
-      "popUnder": {
-          "enabled": true
-      }
-  };
-      var script = document.createElement('script');
-      script.async = true;
-      script.src = '//cdn.shorte.st/link-converter.min.js';
-      script.onload = script.onreadystatechange = function () {var rs = this.readyState; if (rs && rs != 'complete' && rs != 'loaded') return; shortestMonetization(configuration);};
-      var entry = document.getElementsByTagName('script')[0];
-      entry.parentNode.insertBefore(script, entry);
-  })();
-  //]]></script>
  <script async src="{{site.baseurl}}/js/theme.min.js"></script>
   <header>
       <a href="{{site.baseurl}}/"><div class="home"></div></a>

@@ -6,7 +6,7 @@ permalink: /donation/
 How to Keep Supporting Mio?  
 Donate to Mioscape from [PayPal](https://www.paypal.me/mioscape)  
 or  
-Open Shortlink [Here](http://gestyy.com/e00b67)  
+Open Shortlink [Here](http://gestyy.com/e00nOa)  
 
 **Donation List:**  
 - Mdwis

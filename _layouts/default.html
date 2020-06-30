@@ -9,6 +9,7 @@ layout: compress
   <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 <!--   <link href="https://fonts.googleapis.com/css?family=Lato:900|Work+Sans" rel="stylesheet"> -->
   <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
+  <link rel="alternate" type="application/atom+xml" title="Mioscape Blog" href="/feed.xml">
   {% seo %}
 </head>
 <body style="background-color: rgb(255, 255, 255)">
@@ -28,7 +29,7 @@ layout: compress
         <a href="{{site.baseurl}}/about/">About</a>
         <a href="{{site.baseurl}}/contact/">Contact</a>
         <a href="{{site.baseurl}}/rules/">Rules</a>
-        <a href="https://mioscape.github.io/blog-r18/">r-18</a>
+        <a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
         <a class="theme" onclick="theme()">Dark/Light</a>
     </div>
     <p class="copy"><small>Copyrights by {{site.title}} | Developed by <a href="http://github.com/mioscape">Mioscape</a></small></p>

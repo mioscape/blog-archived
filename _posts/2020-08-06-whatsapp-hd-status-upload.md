@@ -17,15 +17,13 @@ _English Tutorial:_
 ![alt text](https://images2.imgbox.com/d8/25/z68HEhCL_o.jpg)  
 4. Open the "Whatsapp/Media" Folder  
 ![alt text](https://images2.imgbox.com/3c/26/qS1G1hgJ_o.jpg)  
-5.
-- Open the "Whatsapp/Media/Whatsapp Images" Folder if you want to upload an image
+5. Open the "Whatsapp/Media/Whatsapp Images" Folder if you want to upload an image
 ![alt text](https://images2.imgbox.com/71/59/kTEB3dwt_o.jpg)  
-- Then open the folder "Whatsapp/Media/Whatsapp Images/Sent" Paste the image there.
+  .5.1 Then open the folder "Whatsapp/Media/Whatsapp Images/Sent" Paste the image there.
 ![alt text](https://images2.imgbox.com/b4/42/b9FLEKnv_o.jpg)  
-6.
-- Open the "Whatsapp/Media/Whatsapp Video" Folder if you want to upload a video
+6. Open the "Whatsapp/Media/Whatsapp Video" Folder if you want to upload a video
 ![alt text](https://images2.imgbox.com/87/2a/HNELb4ex_o.jpg)  
- - Then Open the folder "Whatsapp/Media/Whatsapp Video/Sent" Paste the video there.  
+  .6.1 Then Open the folder "Whatsapp/Media/Whatsapp Video/Sent" Paste the video there.  
 ![alt text](https://images2.imgbox.com/36/e2/DpkdEdrN_o.jpg)  
 
 _Bahasa Indonesia Tutorial:_
@@ -37,13 +35,13 @@ _Bahasa Indonesia Tutorial:_
 ![alt text](https://images2.imgbox.com/d8/25/z68HEhCL_o.jpg)  
 4. Buka Folder "Whatsapp/Media"  
 ![alt text](https://images2.imgbox.com/3c/26/qS1G1hgJ_o.jpg)  
-5. 1. Buka Folder "Whatsapp/Media/Whatsapp Images" Kalau Ingin unggah Gambar  
+5. Buka Folder "Whatsapp/Media/Whatsapp Images" Kalau Ingin unggah Gambar  
 ![alt text](https://images2.imgbox.com/71/59/kTEB3dwt_o.jpg)  
- - Lalu Buka Folder "Whatsapp/Media/Whatsapp Images/Sent" Tempel disitu Gambar nya.  
+ .5.1 Lalu Buka Folder "Whatsapp/Media/Whatsapp Images/Sent" Tempel disitu Gambar nya.  
 ![alt text](https://images2.imgbox.com/b4/42/b9FLEKnv_o.jpg)  
-5. 2. Buka Folder "Whatsapp/Media/Whatsapp Video" Kalau Ingin unggah Video  
+6. Buka Folder "Whatsapp/Media/Whatsapp Video" Kalau Ingin unggah Video  
 ![alt text](https://images2.imgbox.com/87/2a/HNELb4ex_o.jpg)  
- - Lalu Buka Folder "Whatsapp/Media/Whatsapp Video/Sent" Tempel disitu Video nya.  
+ .6.1 Lalu Buka Folder "Whatsapp/Media/Whatsapp Video/Sent" Tempel disitu Video nya.  
 ![alt text](https://images2.imgbox.com/36/e2/DpkdEdrN_o.jpg)  
 
 

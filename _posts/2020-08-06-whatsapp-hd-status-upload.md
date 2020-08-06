@@ -5,6 +5,9 @@ date: 2020-08-06 12:20
 categories: tech
 ---
 **How To Upload HD Status on Whatsapp (Without Compress)**  
+
+
+  
 _English Tutorial:_  
 1. Provide HD Photo/Video, otherwise this tutorial is useless :D  
 ![alt text](https://images2.imgbox.com/49/4b/8ImVaS2u_o.jpg)  

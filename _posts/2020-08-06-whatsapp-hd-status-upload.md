@@ -25,6 +25,7 @@ _English Tutorial:_
 ![alt text](https://images2.imgbox.com/87/2a/HNELb4ex_o.jpg)  
   .6.1 Then Open the folder "Whatsapp/Media/Whatsapp Video/Sent" Paste the video there.  
 ![alt text](https://images2.imgbox.com/36/e2/DpkdEdrN_o.jpg)  
+7. Then upload the Photo/Video on Whatsapp
 
 _Bahasa Indonesia Tutorial:_
 
@@ -43,6 +44,7 @@ _Bahasa Indonesia Tutorial:_
 ![alt text](https://images2.imgbox.com/87/2a/HNELb4ex_o.jpg)  
  .6.1 Lalu Buka Folder "Whatsapp/Media/Whatsapp Video/Sent" Tempel disitu Video nya.  
 ![alt text](https://images2.imgbox.com/36/e2/DpkdEdrN_o.jpg)  
+7. Lalu unggah Foto/Video yang sudah di pindahkan tadi di Whatsapp
 
 
 ## Youtube Tutorial _Coming Soon_

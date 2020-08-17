@@ -1,5 +1,5 @@
 ---
-title: Rules
+title: Jadwal Pelajaran 12 RPL 2
 layout: post
 permalink: /jadwal/
 ---

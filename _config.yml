@@ -3,7 +3,7 @@ plugins:
   - jekyll-feed
 title: Mioscape Blog
 baseurl: /blog # name of the repository
-email: mioscape@gmail.net
+email: mioscape.email@eay.jp
 
 
 

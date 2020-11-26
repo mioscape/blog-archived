@@ -3,7 +3,7 @@ layout: post
 title:  "Neko Hacker - Isekai Travel [Lossy] [Lossless]"
 date:   2020-11-27
 ---
-![cover](images/nekohacker-isekaitravel.jpg 'cover')  
+![cover](https://github.com/mioscape/blog/blob/master/_posts/images/nekohacker-isekaitravel.jpg?raw=true 'cover')  
 _Neko Hacker - Isekai Travel_  
 
 _**Track List:**_

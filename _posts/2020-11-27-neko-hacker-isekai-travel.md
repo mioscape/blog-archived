@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Neko Hacker - Isekai Travel [Lossy] [Lossless]"
+title:  "Neko Hacker - Isekai Travel [M4A] [FLAC]"
 date:   2020-11-27
 ---
 ![cover](https://github.com/mioscape/blog/blob/master/_posts/images/nekohacker-isekaitravel.jpg?raw=true 'cover')  
